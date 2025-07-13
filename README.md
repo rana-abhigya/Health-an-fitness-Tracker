@@ -146,7 +146,7 @@ python report.py
 ## 🙌 Author
 
 **Abhigya**
-Class: XII (IP)
+Class: A-1 (IP)
 Roll No: 2311981018
 
 ---
